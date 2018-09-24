@@ -2,7 +2,7 @@ title: Leandro Ordóñez
 description: First-Person Troubleshooter
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
