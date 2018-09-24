@@ -1,11 +1,11 @@
 ### Who Am I?
 
-I'm a Web enthusiast, passionate developer and forever learner. I love to address big problems and challenges from creative and non traditional approaches. My work has been around bringing intelligence to distributed software systems, pursuing the Semantic Web vision.
+I'm a Web enthusiast, passionate developer and forever learner. I love to address big problems and challenges from creative and non-traditional approaches. My work has been around bringing intelligence to distributed software systems, pursuing the Semantic Web vision.
 
 ### Interests
 
 * Machine Learning (Probabilistic topic models, bayesian inference)
-* Software development (Python, Java, Javascript, HTML, CSS)
+* Software development (Python, Java, NodeJS, HTML, CSS)
 * Academic research (Big Data, Web, Semantics, Knowledge management, Distributed systems)
 
 ### Projects
@@ -19,10 +19,10 @@ I'm a Web enthusiast, passionate developer and forever learner. I love to addres
 
 * GitHub: [@LeandroOrdonez](https://github.com/LeandroOrdonez/)
 * Twitter: [@OrdonezLeandro](http://twitter.com/OrdonezLeandro)
-* LinkedIn: [Leandro Ordóñez](http://co.linkedin.com/pub/leandro-ord%C3%B3%C3%B1ez/27/272/409)
+* LinkedIn: [Leandro Ordóñez](https://www.linkedin.com/in/leandroordonez)
 * Facebook: [Leandro Ordóñez](http://facebook.com/leandro.ordonez.ante)
 
 ### Contact
 
+* leandro.ordonezante@ugent.be
 * leandro.ordonez@thebitbang.company
-* leandro.ordonez.ante@gmail.com
