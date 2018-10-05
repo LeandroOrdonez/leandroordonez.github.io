@@ -10,7 +10,7 @@ I'm a Web enthusiast, passionate developer and forever learner. I love to addres
 
 ### Projects
 
-* [Topicalizer: Automatic Web API Categorization and Annotation](http://leandroordonez.me/Topicalizer/)
+* [Topicalizer: Automatic Web API Categorization and Annotation](http://leandroordonez.github.io/Topicalizer/)
 * [Topicalizer Browser: Tool for visualizing and evaluate the annotations and categories from Topicalizer](https://github.com/LeandroOrdonez/TopicalizerBrowser)
 * [Online LDA for Web APIs](https://github.com/LeandroOrdonez/OnlineLDA4WebAPIs)
 * [Web API Documentation Processing](https://github.com/LeandroOrdonez/WebAPIDocProcessing)
