@@ -6,7 +6,7 @@ I'm a Web enthusiast, passionate developer and forever learner. I love to addres
 
 * Machine Learning (Probabilistic topic models, bayesian inference)
 * Software development (Python, Java, NodeJS, HTML, CSS)
-* Academic research (Big Data, Web, Semantics, Knowledge management, Distributed systems)
+* Academic research (Big Data, Web, Semantics, Data management, Distributed systems)
 
 ### Projects
 
