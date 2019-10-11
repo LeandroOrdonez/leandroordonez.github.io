@@ -2,7 +2,7 @@ title: Leandro Ordóñez
 description: PhD student in Computer Science at IDLab-UGent
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
